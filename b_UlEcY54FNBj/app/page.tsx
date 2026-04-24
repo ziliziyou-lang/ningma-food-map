@@ -9,7 +9,7 @@ export default function Home() {
         <div className="flex items-center justify-center gap-3 py-4 px-4">
           <Train className="w-6 h-6" />
           <h1 className="text-lg font-bold tracking-wide">
-            宁马城际沿线逛吃指南
+            宁马城际线逛吃指南
           </h1>
         </div>
       </header>
