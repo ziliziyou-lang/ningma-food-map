@@ -1,4 +1,0 @@
-{
-  "buildCommand": "cd b_UIECY54FNBj && next build && next export",
-  "outputDirectory": "b_UIECY54FNBj/out"
-}
